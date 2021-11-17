@@ -1,0 +1,113 @@
+#SummaryChart {
+    width: 100%;
+    height: 300px;
+}
+
+#ContractListPieChart {
+    width: 100%;
+    height: 450px;
+}
+
+#AllContractsPieChart {
+    width: 100%;
+    height: 450px;
+}
+
+#ConsumptionBarChart {
+    width: 100%;
+    height: 300px;
+}
+
+#AllConsumptionBarChart {
+    width: 100%;
+    height: 300px;
+}
+
+#potenciaOfertadaListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#asignacionListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#asignacionAUGCListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#generacionListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#generacionMeterListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#ComparativoEnergiaDetail5{
+    width: 100%;
+    height: 500px;
+}
+
+#ComparativoEnergiaDetail10{
+    width: 100%;
+    height: 1000px;
+}
+
+#ComparativoEnergiaDetail20{
+    width: 100%;
+    height: 2000px;
+}
+
+#ComparativoEnergiaDetail30{
+    width: 100%;
+    height: 3000px;
+}
+
+#ComparativoEnergiaDetail40{
+    width: 100%;
+    height: 4000px;
+}
+
+#ComparativoEnergiaDetail50{
+    width: 100%;
+    height: 5000px;
+}
+
+#ofertaCompraListPieChart, #consumoEcdMdaListPieChart, #consumoEcdMtrListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#cobroMdaListPieChart, #cobroMtrListPieChart{
+    width: 100%;
+    height: 430px;
+}
+
+#IngresosListPieChart{
+    width: 100%;
+    height: 580px;
+    font-size: 12px;
+}
+#EgresosListPieChart{
+    width: 100%;
+    height: 580px;
+    font-size: 12px;
+}
+
+
+#Graph0, #Graph1, #Graph2, #Graph3, #Graph4, #Graph5, #Graph6, #Graph7, #Graph8, #Graph9, #Graph10, #Graph11, #Graph12, #Graph13, #Graph14, #Graph15
+, #Graph16, #Graph17, #Graph18, #Graph18, #Graph19, #Graph20, #Graph21, #Graph22, #Graph23, #Graph24, #Graph25, #Graph26, #Graph27, #Graph28, #Graph29, #Graph30
+, #Graph31, #Graph32, #Graph33, #Graph34, #Graph35, #Graph36, #Graph37, #Graph38, #Graph39, #Graph40, #Graph41, #Graph42, #Graph43, #Graph44, #Graph45
+, #Graph46, #Graph47, #Graph48, #Graph49, #Graph50, #Graph51, #Graph52, #Graph53, #Graph54, #Graph55, #Graph56, #Graph57, #Graph58, #Graph59, #Graph60{
+    width: 100%;
+    height: 600px;
+}
+
+
+
+

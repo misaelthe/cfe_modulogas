@@ -1,0 +1,197 @@
+body{
+  padding-top: 70px;
+}
+
+.App {
+  text-align: center;
+}
+
+.ContractList {
+  padding-top: 100px ;
+}
+
+.Summary {
+  padding-top: 50px ;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.borderBotom{
+  border-bottom: 1px;
+}
+
+.col-W40{
+  width: 40%;
+}
+
+.col-W20{
+  width: 20%;
+}
+
+.date{
+  background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%;
+}
+
+.title{
+  text-align: center;
+  background: #285d3d;
+  color: white;
+  padding: 4px;
+  font-weight: inherit;
+  border-radius: 5px;
+}
+
+.input-group-text-own {
+  display: flex;
+  align-items: center;
+  padding: .65rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.background-nav-section {
+  background-color: #f0f1f2;
+  padding: 1px;
+  border-top: 2px solid #dfdfdf;
+}
+
+.section {
+   padding-top: 35px;
+   padding-bottom: 20px;
+}
+
+.background-section {
+  background: #f4f4f482;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+.main-container{
+  max-width: 90%;
+padding-right: var(--bs-gutter-x,.75rem);
+padding-left: var(--bs-gutter-x,.75rem);
+margin-right: auto;
+margin-left: auto;
+}
+
+.p-top{
+margin-top: 0.2%;
+}
+
+.p-top10{
+  padding-top: 10px;
+  }
+
+
+
+.p-top60{
+  padding-top: 60px;
+}
+
+.p-top-Menu{
+  padding-top: 1rem!important;
+}
+
+
+.table-container{
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table-header-blue {
+  --bs-table-bg: #0F3557;
+   color: #fff;
+  
+}
+
+.table-th{
+  background: #b5d2df29;
+}
+
+.table-col-border{
+  border-right: 1px solid;
+}
+
+.font-W600{
+  font-weight: 600;
+}
+
+.font-W400{
+  font-weight: 400;
+}
+
+.font-W200{
+  font-weight: 200;
+}
+
+.custom-select {
+
+  display: block;
+  width: 250px;
+  padding: .45rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  margin-left: 5px;
+
+}
+
+.datepicker-sm{
+                
+  display: block;
+  width: 250px;
+  padding: .25rem .5rem;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  margin-left: 5px;
+}
+
+.border-top{
+  border-top: 1px solid #dfdfdf;
+}
+
+.scrollit {
+  overflow:scroll;
+  height:700px;
+}
+
+.tableFixHead          { overflow: scroll; height: 700px; }
+.tableFixHead thead th { position: sticky; top: 0; z-index: 1; }
+
+/* Just common table stuff. Really. */
+table  { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px 16px; }
+th     { background:#eee; }
+
+
+.float-right{
+  float: right;
+}
+
+.m-rigth{
+  margin-left: 8px;
+}
+
+.disabled-link {
+  pointer-events: none;
+}
